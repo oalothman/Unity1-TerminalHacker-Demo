@@ -6,8 +6,8 @@ public class Hacker : MonoBehaviour {
 
 
 	//Game configuration data
-	string[] level1Passwords = {"books", "aisle", "self", "front"};
-	string[] level2Passwords = { "prison", "handcuff", "uniform", "jail" };
+	string[] level1Passwords = {"notes", "stairs", "other", "back"};
+	string[] level2Passwords = { "freedom", "free", "dress", "home" };
 		
 	//Game state
 	int level;
